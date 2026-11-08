@@ -1,1 +1,4 @@
 *~
+# Security: Block Open VPN key, certificates, and profiles from Git
+openvpn-data
+*.ovpn
